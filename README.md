@@ -71,3 +71,8 @@ Enter your email address: user@@domain.com
 
 🙌 Acknowledgment
 This project was developed as part of my Python journey, with helpful insights gained from an educational YouTube channel that inspired the implementation approach.
+
+📧 **Author**
+Taimour Mushtaq
+🎓 BSCS Student at Federal Urdu University of Arts,Science and Technology, Islamabad Pakistan
+🔗 https://www.linkedin.com/in/taimourmushtaq/ |https://github.com/TAIMOURMUSHTAQ
